@@ -68,7 +68,7 @@ body {
   list-style-type: none;
   padding: 0;
   margin: 0;
-  background: linear-gradient(45deg, #3873ff, #000000);
+  background: linear-gradient(45deg, #3873ff);
   box-shadow: 0 4px 6px #000; 
 }
 
